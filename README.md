@@ -1,3 +1,5 @@
+<!-- -->
+
 # Titanic Classification and 3D Visualization Project
 
 This project predicts passenger survival on the Titanic using a machine learning model and visualizes the ship with an interactive 3D model. Built Frem Scratch, it combines data science with web development to create an engaging user experience.
